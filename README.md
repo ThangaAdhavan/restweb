@@ -196,40 +196,39 @@ Publish the website in the given URL.
         <h2>Administration</h2>
         <div class="admin-grid">
             <div class="admin-card">
-                <img src="https://randomuser.me/api/portraits/men/23.jpg"><br>
-                <b>Rahul Menon</b><br>
+
+                <b>Rahul</b><br>
                 Manager
             </div>
             <div class="admin-card">
-                <img src="https://randomuser.me/api/portraits/women/44.jpg"><br>
-                <b>Priya Sharma</b><br>
+
+                <b>Priya</b><br>
                 Head Chef
             </div>
             <div class="admin-card">
-                <img src="https://randomuser.me/api/portraits/men/64.jpg"><br>
-                <b>Arjun Patel</b><br>
+
+                <b>Arjun</b><br>
                 Operations Lead
             </div>
             <div class="admin-card">
-                <img src="https://randomuser.me/api/portraits/women/88.jpg"><br>
-                <b>Anjali Rao</b><br>
+
+                <b>Anjali</b><br>
                 Marketing Head
             </div>
             <div class="admin-card">
-                <img src="https://randomuser.me/api/portraits/men/41.jpg"><br>
-                <b>Sanjay Kulkarni</b><br>
+
+                <b>Sanjay</b><br>
                 Finance Manager
             </div>
             <div class="admin-card">
-                <img src="https://randomuser.me/api/portraits/women/21.jpg"><br>
-                <b>Meera Desai</b><br>
+                <b>Meera</b><br>
                 Customer Relations
             </div>
         </div>
     </div>
     <div id="contact" class="container" style="display:none;">
         <h2>Contact Us</h2>
-        <p><b>Address:</b> MAIN ROAD PANRUTI,CUDDALORE,605 108</p>
+        <p><b>Address:</b> 53 BANGALA STREET, PANRUTI, CUDDALORE, 607 205</p>
         <p><b>Phone:</b> +91-9876543210</p>
         <p><b>Email:</b> info@checkenfries.com</p>
         <p>We welcome all your feedback and enquiries!</p>
@@ -239,10 +238,11 @@ Publish the website in the given URL.
     </footer>
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
-
+![alt text](<Screenshot (4).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
