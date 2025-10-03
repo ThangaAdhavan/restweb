@@ -234,7 +234,8 @@ Publish the website in the given URL.
         <p>We welcome all your feedback and enquiries!</p>
     </div>
     <footer>
-        &copy; 2025 Checken Fries Restaurant. Created by Perplexity AI Assistant.
+        &copy; 2025 Checken Fries Restaurant.
+        
     </footer>
 </body>
 </html>
@@ -242,7 +243,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (4).png>)
+![alt text](<Screenshot 2025-10-03 150335.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
